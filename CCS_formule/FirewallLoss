@@ -1,0 +1,1 @@
+Accumulate(FirewallLoss.Loss,Iif(Server X.Is on, 0.00007083, 0),time) + Iif(Firewall.Is on , 850, 0)

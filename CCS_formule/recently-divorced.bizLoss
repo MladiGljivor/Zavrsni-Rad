@@ -1,0 +1,1 @@
+Accumulate(recently-divorced.bizLoss.Loss,Iif(recently-divorced.biz.Is on, 0.00000412, 0),time) + Iif(recently-divorced.biz.Is on , 1718, 0)

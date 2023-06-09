@@ -1,0 +1,1 @@
+Accumulate(serverXLoss.Loss,Iif(Server X.Is on, 0.00001032, 0),time) + Iif(ServerX.Is on , 1718, 0)
